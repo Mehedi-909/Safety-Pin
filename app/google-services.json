@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916749360368",
+    "project_id": "otplogin-ed9ba",
+    "storage_bucket": "otplogin-ed9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916749360368:android:eea90b7d0320e5eb4df635",
+        "android_client_info": {
+          "package_name": "com.example.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916749360368-0onj6an0mv242u52vqcsfkn4qbacjcke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otplogin",
+            "certificate_hash": "1ff096b0c7cadd2b5bdb865bee78b748fadbd380"
+          }
+        },
+        {
+          "client_id": "916749360368-jt7oh0a03g5ilhfm3nmre8277a34oaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQyElSTOQRl0j7IbhF0g0WAZPcoN6dozE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916749360368-jt7oh0a03g5ilhfm3nmre8277a34oaos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

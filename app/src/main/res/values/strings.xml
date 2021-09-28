@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Safety Pin</string>
+    <string name="instruction">If you do not have an account, then</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="crime">
+        <item>Snatching</item>
+        <item>Harassment</item>
+        <item>Murder</item>
+        <item>Plunder</item>
+        <item>Robbery</item>
+        <item>Eve-teasing</item>
+        <item>Rape</item>
+        <item>Others</item>
+
+    </string-array>
+</resources>
