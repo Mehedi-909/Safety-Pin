@@ -1,10 +1,10 @@
 <h1> Safety-Pin </h1>
-“Safety pin” is an android application which will help the users to move safely around a city by notifying the users about recent crime incidents and their locations.This app will have the following features :
-1. Marks crime zones in google map.
-2. Alerts user while approaching towards a crime zone.
-3. One tap emergency call to 999.
-4. Suggests nearest police station numbers.
-5. Single tap SMS to trusted contacts with the user's location.
+“Safety pin” is an android application which will help the users to move safely around a city by notifying the users about recent crime incidents and their locations.This app will have the following features : <br><br>
+1. Marks crime zones in google map. <br>
+2. Alerts user while approaching towards a crime zone.<br>
+3. One tap emergency call to 999.<br>
+4. Suggests nearest police station numbers.<br>
+5. Single tap SMS to trusted contacts with the user's location.<br><br>
 
 Here are some screenshots of the application:
 
